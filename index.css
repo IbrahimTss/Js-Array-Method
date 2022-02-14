@@ -1,0 +1,15 @@
+
+
+table{
+    margin-top: 15px;
+    
+}
+th{
+    padding: 1rem;
+    border: 0.2em solid black;
+}
+td {
+
+    border: 0.2em solid black;
+    padding: 0.4em;
+}  
